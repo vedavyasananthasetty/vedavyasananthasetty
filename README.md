@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-chi-blond.vercel.app/)
 
-- 💬 Ask me about **Data Analysis, Machine Learning, Full Stack Development, React, Node.js, Express.js, MongoDB, and Postgresql**
+- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau, JavaScript, React.js, Node.js, MongoDB, and Express.js**
 
 - 📫 How to reach me: **vedavyasanatha@gmail.com**
 
@@ -31,11 +31,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Replace icons and links with those relevant to Data Analyst, Machine Learning, and Full Stack Developer -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
   <!-- Add more icons as per your specific skills -->
 </p>
 
