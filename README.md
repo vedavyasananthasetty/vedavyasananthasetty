@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F354427%2Ftableau&psig=AOvVaw1yEoTn9hGZ_e9UzVzmtLIX&ust=1718994563648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCKg_3n6oYDFQAAAAAdAAAAABAE" alt="tableau" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&psig=AOvVaw1yEoTn9hGZ_e9UzVzmtLIX&ust=1718994563648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCKg_3n6oYDFQAAAAAdAAAAABAI" alt="tableau" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
