@@ -36,13 +36,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="excel" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&psig=AOvVaw1yEoTn9hGZ_e9UzVzmtLIX&ust=1718994563648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCKg_3n6oYDFQAAAAAdAAAAABAI" alt="tableau" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fyou-can-download-free-high-quality-tableau-logo-here-available-in-png-or-svg-all-transparent-tableau-softwar--758012181024059999%2F&psig=AOvVaw1yEoTn9hGZ_e9UzVzmtLIX&ust=1718994563648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCKg_3n6oYDFQAAAAAdAAAAABAg" alt="tableau" width="40" height="40"/>
   <!-- Add more icons as per your specific skills -->
 </p>
 
